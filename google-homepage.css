@@ -1,0 +1,41 @@
+* {
+	font-family: Arial, sans-serif;
+}
+#padding {
+	padding-top: 175px;
+}
+
+#logo {
+	background:url(https://www.google.ca/images/srpr/logo11w.png);
+	background-size: 269px 95px;
+	width: 269px;
+	height: 95px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Canada_logo {
+	position: relative;
+	color: #777;
+	font-size: 16px;
+	font-weight: bold;
+	left: 218px;
+	top: 70px;
+}
+#search {
+	padding-top: 25px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.resizedTextbox {
+	width: 550px;
+}
+div img {
+
+	max-width: 100%;
+	max-height: 100%;
+}
