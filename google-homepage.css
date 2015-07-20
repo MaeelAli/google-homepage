@@ -36,6 +36,26 @@
 }
 div img {
 
-	max-width: 100%;
+	max-width: 100%;s
 	max-height: 100%;
+}
+
+.searchButtons {
+	height: 30px;
+	background-image: -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
+	-webkit-appearence: push-button;
+	font-weight: bold;
+	border: 1px solid rgba(0,0,0,0.1);
+	border-radius: 2px;
+	font-size: 11px;
+	position: absolute;
+	margin-top: 15px;
+
+	display: inline;
+
+
+}
+
+center {
+	height: 53px;
 }
